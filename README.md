@@ -7,7 +7,7 @@
 - 🚀 Fast startup time due to low but useful plugins.
 - 💤 Low resource footprint due to lazy loading.
 - 📈 Statusline component to see the number of pending updates.
-  ## ☠ Getting Started
+## ✨ Getting Started
 1). Backup current neovim config if any
 ```bash
 cp $XDG_CONFIG_HOME/nvim ~/nvim.bak
