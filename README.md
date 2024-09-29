@@ -16,7 +16,7 @@ cp $XDG_CONFIG_HOME/nvim ~/nvim.bak
 ```bash
 git clone --depth=1 --single-branch -b main https://github.com/69keks/neoIDE.git $XDG_CONFIG_HOME/nvim
 ```
-3). ??????
+3). ??????  
 4). Profit!!! Just run neovim and wait till lazy bootstraps!
 ## ✨ Workflow
 ![Workflow](assets/Workflow.png)
